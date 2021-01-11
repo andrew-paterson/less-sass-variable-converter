@@ -1,0 +1,2 @@
+
+Must backup original content files when replacing k2 imqge references.
